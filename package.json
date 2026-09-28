@@ -29,7 +29,7 @@
     "react-dnd": "^16.0.1",
     "react-dnd-html5-backend": "^16.0.1",
     "react-dom": "^19.2.6",
-    "tinacms": "^3.10.0",
+    "tinacms": "^3.14.1",
     "tinacms-authjs": "^24.0.0",
     "tinacms-gitprovider-github": "^4.1.14",
     "typescript": "^6.0.3",
